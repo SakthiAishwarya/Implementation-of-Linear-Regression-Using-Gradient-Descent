@@ -23,7 +23,7 @@ RegisterNumber:  212219040132
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+![linear regression using gradient descent](./images/1.jpg)
 
 
 ## Result:
